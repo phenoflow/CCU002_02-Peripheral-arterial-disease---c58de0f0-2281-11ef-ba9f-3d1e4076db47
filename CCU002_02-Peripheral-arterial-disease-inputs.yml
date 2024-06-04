@@ -1,0 +1,36 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_02-peripheral-arterial-disease-pad-associated---primary.py
+inputModule3:
+  class: File
+  path: python/ischaemic-ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-peripheral-arterial-disease-pad-circulatory---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule6:
+  class: File
+  path: python/diabetic-ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule7:
+  class: File
+  path: python/vascular-ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule8:
+  class: File
+  path: python/angiopathy-ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-peripheral-arterial-disease-pad-claudication---primary.py
+inputModule10:
+  class: File
+  path: python/lower-ccu002_02-peripheral-arterial-disease-pad---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
